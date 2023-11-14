@@ -1,0 +1,10 @@
+__pycache__/
+instance/
+*.pyc
+.env
+.vscode/
+venv/
+test.ipynb
+app.db
+dockerfile
+docker-compose.yml
