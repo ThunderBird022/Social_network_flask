@@ -32,8 +32,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### 4. Start the Application (CMD):
 
-    python app.py  
+    python app.py
+    or
+    python3 app.py
 
 ### 5. Start the bot (in seperated CMD):
 
     python bot.py
+    or
+    python3 app.py
